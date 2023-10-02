@@ -6,7 +6,7 @@ colorama==0.4.6
 DateTime==5.2
 distlib==0.3.7
 filelock       
-Flask==2.3.3
+Flask
 Flask-Migrate==4.0.5   
 Flask-MySQL==1.5.2     
 Flask-Script==2.0.6    
